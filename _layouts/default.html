@@ -122,10 +122,11 @@
             {% include houghton.html %}
             {% include chassell_obs.htm %}
             {% include houghton.html %}
-            <!--#include virtual="./includes/louisville_obs.htm" -->
-            <!--#include virtual="./includes/louisville.html" -->
-            <!--#include virtual="./includes/plymouth_obs.htm" -->
-            <!--#include virtual="./includes/south_bend.html" -->
+            {% include louisville_obs.htm %}
+            {% include louisville.html %}
+	    {% include plymouth_obs.htm %}
+            {% include south_bend.html %}
+	    
             <p class="left" style="font-size:120%; padding: 0px 0px 0px 8px;">
 			ESPN Headlines</p> 
 	       {% include espn_news.html %}
