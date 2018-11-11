@@ -38,7 +38,7 @@ br {
     font-size:70%;
     padding-left: 11px;
     padding-bottom: 8px;
-    color:#696969;
+    color: #666666;
     background-color:#FFFFFF;
     border-bottom:solid 1px #E0E0E0;
     border-left:solid 1px #E0E0E0;
@@ -46,6 +46,7 @@ br {
     border-radius: 0 0 10px 10px;
     -webkit-border-radius :0 0 10px 10px;
     -moz-border-radius :0 0 10px 10px;
+   
     margin-bottom:8px;
 }
 [class*="col-"] {
@@ -78,7 +79,7 @@ br {
 			background-color:rgb(167,226,226);
                 }
          div.espn_feed {
-			font-size:80%;
+			font-size:100%;
 			text-align: left;
 			line-height: 90%;
 		       	padding: 5px 0px 5px 15px;
@@ -172,6 +173,7 @@ br {
     font-family: "Times-New Roman";
     font-size:120%;
     padding-top:15px;
+    padding-bottom:15px;
 }    
 .wthrCredit { 
     font-size:70%;
@@ -190,6 +192,7 @@ br {
 }
 .obsLocation {
     font-size: 100%;
+    padding-bottom:4px;
     
 }
 .obsTempF {
@@ -201,17 +204,20 @@ br {
     
 }
 .obsTime { 
-    font-size:65%;
+    font-size:75%;
     padding-left: 5px;
+    padding-top: 5px;
     color: #8A8A8A;
+    color: #666666;
 }
  
 .obsLink {
-    padding-bottom:0px;
-    font-size: 80%;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-size: 90%;
 }
 .nwsWarn {
-    font-size: 80%;
+    font-size: 85%;
     color: #FF0000;
     font-weight:bold;
 }
@@ -263,7 +269,7 @@ padding-left:0px;
 
 div.espn_feed .itemtitle {
     font-weight:normal;
-    font-size:100%;
+    font-size:90%;
 }
 
 .itemfrom a{
