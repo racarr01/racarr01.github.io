@@ -217,7 +217,8 @@ br {
     font-size: 90%;
 }
 .nwsWarn {
-    font-size: 85%;
+    padding-top: 5px;
+    font-size: 80%;
     color: #FF0000;
     font-weight:bold;
 }
