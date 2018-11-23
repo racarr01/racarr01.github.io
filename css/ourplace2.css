@@ -212,12 +212,13 @@ br {
 }
  
 .obsLink {
-    padding-top:5px;
+    padding-top:0px;
     padding-bottom:5px;
     font-size: 90%;
 }
 .nwsWarn {
     padding-top: 5px;
+    
     font-size: 80%;
     color: #FF0000;
     font-weight:bold;
